@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"angle_difference_with_overflow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"angle_difference_with_overflow",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
