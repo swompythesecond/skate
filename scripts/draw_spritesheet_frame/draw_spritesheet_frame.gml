@@ -5,6 +5,7 @@ function draw_spritesheet_frame(spritesheet, rotation_index, animation_index, fr
 var x_source = rotation_index * frame_width;
 var y_source = animation_index * frame_height;
 
+
 draw_sprite_part(
     spritesheet,
     0,
