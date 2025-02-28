@@ -2,15 +2,6 @@ if !draw_menu{
 	if keyboard_check_pressed(ord("R")){
 		game_restart()
 	}
-	
-	
-	button_up = keyboard_check(vk_up);
-	button_left = keyboard_check(vk_left);
-	button_right = keyboard_check(vk_right);
-
-	button_x = keyboard_check(ord("X"));
-	button_a = keyboard_check(vk_space);
-	button_b = keyboard_check(ord("C"));
 
 	vsp += grv;
 
